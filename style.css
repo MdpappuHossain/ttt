@@ -1,0 +1,26 @@
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSyHIMta-mEjI6Jk1Y4nlJZQkqPqbjNg-m4fOnPRO-fFMZ51NuVjHKV1TMgo8acOVsj0&usqp=CAU");
+background-attachment: fixed;
+background-size: cover;
+
+
+    margin: 25px 50px 75px 75px;
+border: 2px solid red;
+border-radius: 50px;
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+
+.new{
+background-color: brown;
+color: black;
+}
+#pa{
+
+    color: brown;
+}
+
+
+
+}
